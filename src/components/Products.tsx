@@ -15,7 +15,7 @@ const products = [
     title: "Love Story Keepsake Plate",
     description: "Personalized resin plate with couple photos and milestone dates",
     category: "Custom Keepsakes",
-    price: "₹1,200",
+    price: "₹2,800",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const products = [
     title: "Festive Diya Holder - Turquoise",
     description: "Handcrafted resin tray with gold accents and floral details",
     category: "Diya Holders",
-    price: "₹850",
+    price: "₹1,800",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const products = [
     title: "Ganesh Diya Holder - Emerald",
     description: "Elegant green resin piece with sacred Ganesh motif",
     category: "Diya Holders",
-    price: "₹900",
+    price: "₹2,200",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const products = [
     title: "Ocean Blue Decorative Tray",
     description: "Stunning blue resin with gold flowers and pearl accents",
     category: "Decorative Trays",
-    price: "₹750",
+    price: "₹1,500",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const products = [
     title: "Sanskrit Mantra Diya Holder",
     description: "Blue resin with traditional Sanskrit text and gold diyas",
     category: "Diya Holders",
-    price: "₹950",
+    price: "₹2,500",
   },
   {
     id: 6,
@@ -55,7 +55,7 @@ const products = [
     title: "Rainbow Collection Set",
     description: "Vibrant multi-colored diya holders with gold leaf details",
     category: "Sets",
-    price: "₹3,200",
+    price: "₹3,000",
   },
 ];
 

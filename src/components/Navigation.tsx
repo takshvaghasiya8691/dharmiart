@@ -25,7 +25,6 @@ const Navigation = () => {
 
   const navLinks = [
     { label: "Home", id: "hero" },
-    { label: "Gallery", id: "gallery" },
     { label: "Products", id: "products" },
     { label: "About", id: "about" },
     { label: "Commissions", id: "commissions" },
